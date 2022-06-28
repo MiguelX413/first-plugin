@@ -1,0 +1,4 @@
+name: FirstPlugin
+version: '${version}'
+main: me.miguelcr.firstplugin.FirstPlugin
+api-version: 1.18
